@@ -1,0 +1,13 @@
+C:\Users\Вячеслав\source\repos\TestLinq\BuilderTest\bin\Debug\BuilderTest.exe.config
+C:\Users\Вячеслав\source\repos\TestLinq\BuilderTest\bin\Debug\BuilderTest.exe
+C:\Users\Вячеслав\source\repos\TestLinq\BuilderTest\bin\Debug\BuilderTest.pdb
+C:\Users\Вячеслав\source\repos\TestLinq\BuilderTest\obj\Debug\BuilderTest.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\source\repos\TestLinq\BuilderTest\obj\Debug\BuilderTest.exe
+C:\Users\Вячеслав\source\repos\TestLinq\BuilderTest\obj\Debug\BuilderTest.pdb
+D:\repos\TestLinq\BuilderTest\bin\Debug\BuilderTest.exe.config
+D:\repos\TestLinq\BuilderTest\bin\Debug\BuilderTest.exe
+D:\repos\TestLinq\BuilderTest\bin\Debug\BuilderTest.pdb
+D:\repos\TestLinq\BuilderTest\obj\Debug\BuilderTest.csprojAssemblyReference.cache
+D:\repos\TestLinq\BuilderTest\obj\Debug\BuilderTest.csproj.CoreCompileInputs.cache
+D:\repos\TestLinq\BuilderTest\obj\Debug\BuilderTest.exe
+D:\repos\TestLinq\BuilderTest\obj\Debug\BuilderTest.pdb

@@ -1,0 +1,8 @@
+D:\repos\TestLinq\MetanitPractice.BLL\bin\Debug\MetanitPractice.BLL.dll
+D:\repos\TestLinq\MetanitPractice.BLL\bin\Debug\MetanitPractice.BLL.pdb
+D:\repos\TestLinq\MetanitPractice.BLL\obj\Debug\MetanitPractice.BLL.csprojAssemblyReference.cache
+D:\repos\TestLinq\MetanitPractice.BLL\obj\Debug\MetanitPractice.BLL.csproj.CoreCompileInputs.cache
+D:\repos\TestLinq\MetanitPractice.BLL\obj\Debug\MetanitPractice.BLL.dll
+D:\repos\TestLinq\MetanitPractice.BLL\obj\Debug\MetanitPractice.BLL.pdb
+D:\repos\TestLinq\MetanitPractice.BLL\bin\Debug\MetanitPractice.BLL.dll.CodeAnalysisLog.xml
+D:\repos\TestLinq\MetanitPractice.BLL\bin\Debug\MetanitPractice.BLL.dll.lastcodeanalysissucceeded

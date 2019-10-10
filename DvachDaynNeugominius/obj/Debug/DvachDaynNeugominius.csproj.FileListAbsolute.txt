@@ -1,0 +1,10 @@
+D:\repos\TestLinq\DvachDaynNeugominius\bin\Debug\DvachDaynNeugominius.exe.config
+D:\repos\TestLinq\DvachDaynNeugominius\bin\Debug\DvachDaynNeugominius.exe
+D:\repos\TestLinq\DvachDaynNeugominius\bin\Debug\DvachDaynNeugominius.pdb
+D:\repos\TestLinq\DvachDaynNeugominius\obj\Debug\DvachDaynNeugominius.csprojAssemblyReference.cache
+D:\repos\TestLinq\DvachDaynNeugominius\obj\Debug\DvachDaynNeugominius.csproj.CoreCompileInputs.cache
+D:\repos\TestLinq\DvachDaynNeugominius\obj\Debug\DvachDaynNeugominius.exe
+D:\repos\TestLinq\DvachDaynNeugominius\obj\Debug\DvachDaynNeugominius.pdb
+D:\repos\TestLinq\DvachDaynNeugominius\bin\Debug\System.ValueTuple.dll
+D:\repos\TestLinq\DvachDaynNeugominius\bin\Debug\System.ValueTuple.xml
+D:\repos\TestLinq\DvachDaynNeugominius\obj\Debug\DvachDaynNeugominius.csproj.CopyComplete

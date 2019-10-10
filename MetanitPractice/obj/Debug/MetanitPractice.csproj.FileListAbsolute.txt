@@ -1,0 +1,10 @@
+D:\repos\TestLinq\MetanitPractice\bin\Debug\MetanitPractice.exe.config
+D:\repos\TestLinq\MetanitPractice\bin\Debug\MetanitPractice.exe
+D:\repos\TestLinq\MetanitPractice\bin\Debug\MetanitPractice.pdb
+D:\repos\TestLinq\MetanitPractice\bin\Debug\MetanitPractice.BLL.dll
+D:\repos\TestLinq\MetanitPractice\bin\Debug\MetanitPractice.BLL.pdb
+D:\repos\TestLinq\MetanitPractice\obj\Debug\MetanitPractice.csprojAssemblyReference.cache
+D:\repos\TestLinq\MetanitPractice\obj\Debug\MetanitPractice.csproj.CoreCompileInputs.cache
+D:\repos\TestLinq\MetanitPractice\obj\Debug\MetanitPractice.csproj.CopyComplete
+D:\repos\TestLinq\MetanitPractice\obj\Debug\MetanitPractice.exe
+D:\repos\TestLinq\MetanitPractice\obj\Debug\MetanitPractice.pdb
